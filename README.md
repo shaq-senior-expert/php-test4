@@ -2,9 +2,7 @@
 
 ### Problem 4:
 
-## test - task4.txt
-
-#1. Endpoint URL for adding a lot of apples:
+##1. Endpoint URL for adding a lot of apples:
 
 POST /api/lots
 
@@ -33,7 +31,7 @@ Response Status Code:
 201 Created
 
 
-#2. Endpoint URL for updating the lot with a new harvesting date:
+##2. Endpoint URL for updating the lot with a new harvesting date:
 
 PATCH /api/lots/12345
 
@@ -57,7 +55,7 @@ Response Status Code:
 200 OK
 
 
-#3. Endpoint URL for validating the minimum weight of a lot:
+##3. Endpoint URL for validating the minimum weight of a lot:
 
 POST /api/lots/validate
 
