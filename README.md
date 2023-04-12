@@ -2,7 +2,7 @@
 
 ### Problem 4:
 
-## test - task4.html
+## test - task4.txt
 
 #1. Endpoint URL for adding a lot of apples:
 
